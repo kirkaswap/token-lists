@@ -1,0 +1,18 @@
+[
+  {
+    "address": "0x2EfE2C430B152B39dC8052d80010fB73964A76f7",
+    "name": "Kirka pCKB",
+    "symbol": "pCKB",
+    "decimals": 18,
+    "isExperimental": true,
+    "extensions": {
+      "bridgeInfo": {
+        "71401": {
+          "tokenAddress": "0x0000000000000000000000000000000000000000",
+          "originBridgeAddress": "0xB34D6f960A447F01C5000afBeE97F0e3b16184da",
+          "destBridgeAddress": "0xF763aC2256Cb819f86Af861D61E476B493A50868"
+        }
+      }
+    }
+  }
+]

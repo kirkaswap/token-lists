@@ -1,0 +1,52 @@
+{
+  "name": "Kirkaswap List",
+  "logoURI": "https://raw.githubusercontent.com/kirkaswap/token-lists/master/logo.svg",
+  "keywords": [
+    "ckb",
+    "kirka",
+    "defi",
+    "bridge"
+  ],
+  "timestamp": "2022-07-20T23:31:25.868Z",
+  "tokens": [
+    {
+      "address": "0x2EfE2C430B152B39dC8052d80010fB73964A76f7",
+      "name": "Kirka pCKB",
+      "symbol": "pCKB",
+      "decimals": 18,
+      "extensions": {
+        "bridgeInfo": {
+          "71401": {
+            "tokenAddress": "0x0000000000000000000000000000000000000000",
+            "originBridgeAddress": "0xB34D6f960A447F01C5000afBeE97F0e3b16184da",
+            "destBridgeAddress": "0xF763aC2256Cb819f86Af861D61E476B493A50868"
+          }
+        }
+      },
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/kirkaswap/token-lists/master/assets/asset_pCKB.svg"
+    },
+    {
+      "address": "0xDbc912CD33BbEBDc396020508a125B19552826d1",
+      "name": "Kirka pCKB",
+      "symbol": "pCKB",
+      "decimals": 18,
+      "extensions": {
+        "bridgeInfo": {
+          "71401": {
+            "tokenAddress": "0x0000000000000000000000000000000000000000",
+            "originBridgeAddress": "0xc8D69B4D58bb79D03C0b83DbBAE509DAF3135e74",
+            "destBridgeAddress": "0xF763aC2256Cb819f86Af861D61E476B493A50868"
+          }
+        }
+      },
+      "chainId": 3,
+      "logoURI": "https://raw.githubusercontent.com/kirkaswap/token-lists/master/assets/asset_pCKB.svg"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 1
+  }
+}
