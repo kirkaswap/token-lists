@@ -1,13 +1,8 @@
 {
   "name": "Kirkaswap List",
   "logoURI": "https://raw.githubusercontent.com/kirkaswap/token-lists/master/logo.svg",
-  "keywords": [
-    "ckb",
-    "kirka",
-    "defi",
-    "bridge"
-  ],
-  "timestamp": "2022-07-20T23:31:25.868Z",
+  "keywords": ["ckb", "kirka", "defi", "bridge"],
+  "timestamp": "2022-07-22T05:11:24.806Z",
   "tokens": [],
   "version": {
     "major": 0,

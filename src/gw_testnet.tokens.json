@@ -1,14 +1,14 @@
 [
   {
-    "address": "0x4BA2fD25828D8d0D57B0B10C34B2FA772ACB9f2D",
-    "name": "Kirka pCKB",
-    "symbol": "pCKB",
+    "address": "0xaFD8fbE590940031C9E8CC2a1A05f8C48cfFDc83",
+    "name": "Kirka BUSD",
+    "symbol": "BUSD",
     "decimals": 18,
     "isExperimental": true,
     "extensions": {
       "bridgeInfo": {
-        "71401": {
-          "tokenAddress": "0x0000000000000000000000000000000000000000",
+        "97": {
+          "tokenAddress": "0xed24fc36d5ee211ea25a80239fb8c4cfd80f12ee",
           "originBridgeAddress": "0x353759bD68A9a8329b32EaD474B6C570A7DE702d",
           "destBridgeAddress": "0x353759bD68A9a8329b32EaD474B6C570A7DE702d"
         }
@@ -16,15 +16,15 @@
     }
   },
   {
-    "address": "0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee",
-    "name": "Binance USD",
-    "symbol": "BUSD",
-    "decimals": 18,
+    "address": "0xECae75B499bA8AEa405cbC0E46B49410037C12cD",
+    "name": "Kirka USDC",
+    "symbol": "USDC",
+    "decimals": 6,
     "isExperimental": true,
     "extensions": {
       "bridgeInfo": {
-        "71401": {
-          "tokenAddress": "0xaFD8fbE590940031C9E8CC2a1A05f8C48cfFDc83",
+        "5": {
+          "tokenAddress": "0x07865c6e87b9f70255377e024ace6630c1eaa37f",
           "originBridgeAddress": "0x353759bD68A9a8329b32EaD474B6C570A7DE702d",
           "destBridgeAddress": "0x353759bD68A9a8329b32EaD474B6C570A7DE702d"
         }
