@@ -1,7 +1,12 @@
 {
   "name": "Kirkaswap List",
   "logoURI": "https://raw.githubusercontent.com/kirkaswap/token-lists/master/logo.svg",
-  "keywords": ["ckb", "kirka", "defi", "bridge"],
+  "keywords": [
+    "ckb",
+    "kirka",
+    "defi",
+    "bridge"
+  ],
   "timestamp": "2022-07-23T21:03:20.935Z",
   "tokens": [
     {
@@ -54,23 +59,6 @@
       },
       "chainId": 71401,
       "logoURI": "https://raw.githubusercontent.com/kirkaswap/token-lists/master/assets/asset_USDT.svg"
-    },
-    {
-      "address": "0xf0d66bf1260D21fE90329A7A311e84979FEB004d",
-      "name": "Wrapped ETH (ForceBridge from Ethereum)",
-      "symbol": "ETH|eth",
-      "decimals": 18,
-      "extensions": {
-        "bridgeInfo": {
-          "4": {
-            "tokenAddress": "0x0000000000000000000000000000000000000000",
-            "originBridgeAddress": "0x2454851A9320A0E11A3DD27f0d3585158eA84C94",
-            "destBridgeAddress": "0x9d5A617612FaA77f24FF892ce068629F94Dc72C1"
-          }
-        }
-      },
-      "chainId": 71401,
-      "logoURI": "https://raw.githubusercontent.com/kirkaswap/token-lists/master/assets/asset_ETH.svg"
     },
     {
       "address": "0x265566D4365d80152515E800ca39424300374A83",
