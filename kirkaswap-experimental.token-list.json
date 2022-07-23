@@ -2,7 +2,7 @@
   "name": "Kirkaswap List",
   "logoURI": "https://raw.githubusercontent.com/kirkaswap/token-lists/master/logo.svg",
   "keywords": ["ckb", "kirka", "defi", "bridge"],
-  "timestamp": "2022-07-23T17:36:00.041Z",
+  "timestamp": "2022-07-23T21:03:20.935Z",
   "tokens": [
     {
       "address": "0x20FB98bb94aD9B98c0f0089138012E49323d0fEf",
@@ -13,8 +13,8 @@
         "bridgeInfo": {
           "4": {
             "tokenAddress": "0x265566D4365d80152515E800ca39424300374A83",
-            "originBridgeAddress": "0x9d5A617612FaA77f24FF892ce068629F94Dc72C1",
-            "destBridgeAddress": "0x353759bD68A9a8329b32EaD474B6C570A7DE702d"
+            "originBridgeAddress": "0x2454851A9320A0E11A3DD27f0d3585158eA84C94",
+            "destBridgeAddress": "0x9d5A617612FaA77f24FF892ce068629F94Dc72C1"
           }
         }
       },
@@ -30,8 +30,8 @@
         "bridgeInfo": {
           "4": {
             "tokenAddress": "0x7Af456bf0065aADAB2E6BEc6DaD3731899550b84",
-            "originBridgeAddress": "0x9d5A617612FaA77f24FF892ce068629F94Dc72C1",
-            "destBridgeAddress": "0x353759bD68A9a8329b32EaD474B6C570A7DE702d"
+            "originBridgeAddress": "0x2454851A9320A0E11A3DD27f0d3585158eA84C94",
+            "destBridgeAddress": "0x9d5A617612FaA77f24FF892ce068629F94Dc72C1"
           }
         }
       },
@@ -47,8 +47,8 @@
         "bridgeInfo": {
           "4": {
             "tokenAddress": "0x74a3dbd5831f45CD0F3002Bb87a59B7C15b1B5E6",
-            "originBridgeAddress": "0x9d5A617612FaA77f24FF892ce068629F94Dc72C1",
-            "destBridgeAddress": "0x353759bD68A9a8329b32EaD474B6C570A7DE702d"
+            "originBridgeAddress": "0x2454851A9320A0E11A3DD27f0d3585158eA84C94",
+            "destBridgeAddress": "0x9d5A617612FaA77f24FF892ce068629F94Dc72C1"
           }
         }
       },
@@ -64,8 +64,8 @@
         "bridgeInfo": {
           "4": {
             "tokenAddress": "0x0000000000000000000000000000000000000000",
-            "originBridgeAddress": "0x9d5A617612FaA77f24FF892ce068629F94Dc72C1",
-            "destBridgeAddress": "0x353759bD68A9a8329b32EaD474B6C570A7DE702d"
+            "originBridgeAddress": "0x2454851A9320A0E11A3DD27f0d3585158eA84C94",
+            "destBridgeAddress": "0x9d5A617612FaA77f24FF892ce068629F94Dc72C1"
           }
         }
       },
@@ -81,8 +81,8 @@
         "bridgeInfo": {
           "71401": {
             "tokenAddress": "0x20FB98bb94aD9B98c0f0089138012E49323d0fEf",
-            "originBridgeAddress": "0x353759bD68A9a8329b32EaD474B6C570A7DE702d",
-            "destBridgeAddress": "0x9d5A617612FaA77f24FF892ce068629F94Dc72C1"
+            "originBridgeAddress": "0x9d5A617612FaA77f24FF892ce068629F94Dc72C1",
+            "destBridgeAddress": "0x2454851A9320A0E11A3DD27f0d3585158eA84C94"
           }
         }
       },
@@ -98,8 +98,8 @@
         "bridgeInfo": {
           "71401": {
             "tokenAddress": "0x90fc553aBad2b8B6ffe9282e36db52cE6388C648",
-            "originBridgeAddress": "0x353759bD68A9a8329b32EaD474B6C570A7DE702d",
-            "destBridgeAddress": "0x9d5A617612FaA77f24FF892ce068629F94Dc72C1"
+            "originBridgeAddress": "0x9d5A617612FaA77f24FF892ce068629F94Dc72C1",
+            "destBridgeAddress": "0x2454851A9320A0E11A3DD27f0d3585158eA84C94"
           }
         }
       },
@@ -115,8 +115,8 @@
         "bridgeInfo": {
           "71401": {
             "tokenAddress": "0x24a9467fd390d8ca70e848ce8a2e9bbe087eab0e",
-            "originBridgeAddress": "0x353759bD68A9a8329b32EaD474B6C570A7DE702d",
-            "destBridgeAddress": "0x9d5A617612FaA77f24FF892ce068629F94Dc72C1"
+            "originBridgeAddress": "0x9d5A617612FaA77f24FF892ce068629F94Dc72C1",
+            "destBridgeAddress": "0x2454851A9320A0E11A3DD27f0d3585158eA84C94"
           }
         }
       },

@@ -9,8 +9,8 @@
       "bridgeInfo": {
         "4": {
           "tokenAddress": "0x265566D4365d80152515E800ca39424300374A83",
-          "originBridgeAddress": "0x9d5A617612FaA77f24FF892ce068629F94Dc72C1",
-          "destBridgeAddress": "0x353759bD68A9a8329b32EaD474B6C570A7DE702d"
+          "originBridgeAddress": "0x2454851A9320A0E11A3DD27f0d3585158eA84C94",
+          "destBridgeAddress": "0x9d5A617612FaA77f24FF892ce068629F94Dc72C1"
         }
       }
     }
@@ -25,8 +25,8 @@
       "bridgeInfo": {
         "4": {
           "tokenAddress": "0x7Af456bf0065aADAB2E6BEc6DaD3731899550b84",
-          "originBridgeAddress": "0x9d5A617612FaA77f24FF892ce068629F94Dc72C1",
-          "destBridgeAddress": "0x353759bD68A9a8329b32EaD474B6C570A7DE702d"
+          "originBridgeAddress": "0x2454851A9320A0E11A3DD27f0d3585158eA84C94",
+          "destBridgeAddress": "0x9d5A617612FaA77f24FF892ce068629F94Dc72C1"
         }
       }
     }
@@ -41,8 +41,8 @@
       "bridgeInfo": {
         "4": {
           "tokenAddress": "0x74a3dbd5831f45CD0F3002Bb87a59B7C15b1B5E6",
-          "originBridgeAddress": "0x9d5A617612FaA77f24FF892ce068629F94Dc72C1",
-          "destBridgeAddress": "0x353759bD68A9a8329b32EaD474B6C570A7DE702d"
+          "originBridgeAddress": "0x2454851A9320A0E11A3DD27f0d3585158eA84C94",
+          "destBridgeAddress": "0x9d5A617612FaA77f24FF892ce068629F94Dc72C1"
         }
       }
     }
@@ -57,8 +57,8 @@
       "bridgeInfo": {
         "4": {
           "tokenAddress": "0x0000000000000000000000000000000000000000",
-          "originBridgeAddress": "0x9d5A617612FaA77f24FF892ce068629F94Dc72C1",
-          "destBridgeAddress": "0x353759bD68A9a8329b32EaD474B6C570A7DE702d"
+          "originBridgeAddress": "0x2454851A9320A0E11A3DD27f0d3585158eA84C94",
+          "destBridgeAddress": "0x9d5A617612FaA77f24FF892ce068629F94Dc72C1"
         }
       }
     }
