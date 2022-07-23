@@ -1,13 +1,8 @@
 {
   "name": "Kirkaswap List",
   "logoURI": "https://raw.githubusercontent.com/kirkaswap/token-lists/master/logo.svg",
-  "keywords": [
-    "ckb",
-    "kirka",
-    "defi",
-    "bridge"
-  ],
-  "timestamp": "2022-07-23T21:03:20.935Z",
+  "keywords": ["ckb", "kirka", "defi", "bridge"],
+  "timestamp": "2022-07-23T22:06:16.294Z",
   "tokens": [
     {
       "address": "0x20FB98bb94aD9B98c0f0089138012E49323d0fEf",
@@ -24,7 +19,7 @@
         }
       },
       "chainId": 71401,
-      "logoURI": "https://raw.githubusercontent.com/kirkaswap/token-lists/master/assets/asset_USDC.svg"
+      "logoURI": "https://raw.githubusercontent.com/kirkaswap/token-lists/master/assets/asset_USDC|eth.svg"
     },
     {
       "address": "0x24a9467Fd390d8ca70e848Ce8a2E9BbE087Eab0E",
@@ -41,7 +36,7 @@
         }
       },
       "chainId": 71401,
-      "logoURI": "https://raw.githubusercontent.com/kirkaswap/token-lists/master/assets/asset_DAI.svg"
+      "logoURI": "https://raw.githubusercontent.com/kirkaswap/token-lists/master/assets/asset_DAI|eth.svg"
     },
     {
       "address": "0x90fc553aBad2b8B6ffe9282e36db52cE6388C648",
@@ -58,7 +53,24 @@
         }
       },
       "chainId": 71401,
-      "logoURI": "https://raw.githubusercontent.com/kirkaswap/token-lists/master/assets/asset_USDT.svg"
+      "logoURI": "https://raw.githubusercontent.com/kirkaswap/token-lists/master/assets/asset_USDT|eth.svg"
+    },
+    {
+      "address": "0xf0d66bf1260D21fE90329A7A311e84979FEB004d",
+      "name": "Wrapped ETH (ForceBridge from Ethereum)",
+      "symbol": "ETH|eth",
+      "decimals": 18,
+      "extensions": {
+        "bridgeInfo": {
+          "4": {
+            "tokenAddress": "0x0000000000000000000000000000000000000000",
+            "originBridgeAddress": "0x2454851A9320A0E11A3DD27f0d3585158eA84C94",
+            "destBridgeAddress": "0x9d5A617612FaA77f24FF892ce068629F94Dc72C1"
+          }
+        }
+      },
+      "chainId": 71401,
+      "logoURI": "https://raw.githubusercontent.com/kirkaswap/token-lists/master/assets/asset_ETH|eth.svg"
     },
     {
       "address": "0x265566D4365d80152515E800ca39424300374A83",

@@ -40,7 +40,7 @@ const makeTokenList = (
 const main = async () => {
   const allTokens = await Promise.all(
     rawTokens.map(async ({ logoURI: elLogoURI, logoFile, ...el }) => {
-      const symbol = el.symbol.split("|")[0];
+      const symbol = el.symbol;
       const logoURI =
         elLogoURI ||
         (logoFile ? `${LOGO_URI_BASE}/assets/${logoFile}` : null) ||
