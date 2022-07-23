@@ -1,31 +1,63 @@
 [
   {
-    "address": "0xaFD8fbE590940031C9E8CC2a1A05f8C48cfFDc83",
-    "name": "Kirka BUSD",
-    "symbol": "BUSD",
-    "decimals": 18,
+    "address": "0x20FB98bb94aD9B98c0f0089138012E49323d0fEf",
+    "name": "Wrapped USDC (ForceBridge from Ethereum)",
+    "symbol": "USDC|eth",
+    "decimals": 6,
     "isExperimental": true,
     "extensions": {
       "bridgeInfo": {
-        "97": {
-          "tokenAddress": "0xed24fc36d5ee211ea25a80239fb8c4cfd80f12ee",
-          "originBridgeAddress": "0x353759bD68A9a8329b32EaD474B6C570A7DE702d",
+        "4": {
+          "tokenAddress": "0x265566D4365d80152515E800ca39424300374A83",
+          "originBridgeAddress": "0x9d5A617612FaA77f24FF892ce068629F94Dc72C1",
           "destBridgeAddress": "0x353759bD68A9a8329b32EaD474B6C570A7DE702d"
         }
       }
     }
   },
   {
-    "address": "0xECae75B499bA8AEa405cbC0E46B49410037C12cD",
-    "name": "Kirka USDC",
-    "symbol": "USDC",
+    "address": "0x24a9467Fd390d8ca70e848Ce8a2E9BbE087Eab0E",
+    "name": "Wrapped DAI (ForceBridge from Ethereum)",
+    "symbol": "DAI|eth",
+    "decimals": 18,
+    "isExperimental": true,
+    "extensions": {
+      "bridgeInfo": {
+        "4": {
+          "tokenAddress": "0x7Af456bf0065aADAB2E6BEc6DaD3731899550b84",
+          "originBridgeAddress": "0x9d5A617612FaA77f24FF892ce068629F94Dc72C1",
+          "destBridgeAddress": "0x353759bD68A9a8329b32EaD474B6C570A7DE702d"
+        }
+      }
+    }
+  },
+  {
+    "address": "0x90fc553aBad2b8B6ffe9282e36db52cE6388C648",
+    "name": "Wrapped USDT (ForceBridge from Ethereum)",
+    "symbol": "USDT|eth",
     "decimals": 6,
     "isExperimental": true,
     "extensions": {
       "bridgeInfo": {
-        "5": {
-          "tokenAddress": "0x07865c6e87b9f70255377e024ace6630c1eaa37f",
-          "originBridgeAddress": "0x353759bD68A9a8329b32EaD474B6C570A7DE702d",
+        "4": {
+          "tokenAddress": "0x74a3dbd5831f45CD0F3002Bb87a59B7C15b1B5E6",
+          "originBridgeAddress": "0x9d5A617612FaA77f24FF892ce068629F94Dc72C1",
+          "destBridgeAddress": "0x353759bD68A9a8329b32EaD474B6C570A7DE702d"
+        }
+      }
+    }
+  },
+  {
+    "address": "0xf0d66bf1260D21fE90329A7A311e84979FEB004d",
+    "name": "Wrapped ETH (ForceBridge from Ethereum)",
+    "symbol": "ETH|eth",
+    "decimals": 18,
+    "isExperimental": true,
+    "extensions": {
+      "bridgeInfo": {
+        "4": {
+          "tokenAddress": "0x0000000000000000000000000000000000000000",
+          "originBridgeAddress": "0x9d5A617612FaA77f24FF892ce068629F94Dc72C1",
           "destBridgeAddress": "0x353759bD68A9a8329b32EaD474B6C570A7DE702d"
         }
       }

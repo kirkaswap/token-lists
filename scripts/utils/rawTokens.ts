@@ -1,7 +1,7 @@
 import { TokenInfo } from "@uniswap/token-lists";
 import bsc_testnet from "../../src/bsc_testnet.tokens.json";
 import gw_testnet from "../../src/gw_testnet.tokens.json";
-import goerli from "../../src/goerli.tokens.json";
+import rinkeby from "../../src/rinkeby.tokens.json";
 
 type IRawToken = Pick<TokenInfo, "address" | "name" | "symbol"> &
   Partial<Pick<TokenInfo, "logoURI" | "decimals">> & {
@@ -14,7 +14,7 @@ type IRawTokenListJson = readonly IRawToken[];
 export const WEB3_NETWORK_NAMES = [
   "bsc_testnet",
   "gw_testnet",
-  "goerli",
+  "rinkeby",
 ] as const;
 export type IWeb3Network = typeof WEB3_NETWORK_NAMES[number];
 
@@ -24,7 +24,7 @@ const rawTokensJson: {
 } = {
   bsc_testnet: [97, bsc_testnet],
   gw_testnet: [71401, gw_testnet],
-  goerli: [5, goerli],
+  rinkeby: [4, rinkeby],
 };
 
 export const getNetworkTokens = (network: IWeb3Network): IRawTokenListJson =>
